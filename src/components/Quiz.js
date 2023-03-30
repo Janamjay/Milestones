@@ -33,6 +33,7 @@ function Quiz() {
         setCurrentQuestion(0);
         setClickedOption(0);
         score.current = 0
+        setNext("Next");
     }
     return (
         <div>
