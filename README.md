@@ -14,4 +14,4 @@ In length fill 100 in all field .
 Now your database created 
 now one one more tab and search  http://localhost/lnmi to see.
 
-To see the website open this  website through  
+To see the website open this  website through  https://janamjay.github.io/Milestones/
