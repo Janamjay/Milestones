@@ -118,6 +118,7 @@ nav .fa{
 	.nav-links ul li{
 		display:block ;
 	}
+		
 	.nav-links{
 		position: fixed;
 		background: #f44336;
@@ -129,6 +130,13 @@ nav .fa{
 		z-index: 2;
 		transition: 1s;
 	}
+	.nav-mainUL ul li {
+		text-align: left;
+		margin-bottom: 10px;
+	}
+	.nav-mainUL li{
+		padding: 8px 0;
+	}
 	nav .fa{
 		display: block;
 		color: #fff;
@@ -137,7 +145,7 @@ nav .fa{
 		cursor: pointer;
 	}
 	.nav-links ul{
-		padding: 30px;
+		padding: 0 30px;
 	}
 	.row{
 		flex-direction: column;
@@ -472,7 +480,7 @@ h3{
 
 .placement-main{
 	display: flex;
-	/width: 90%;/
+	/* width: 90%; */
 
 	justify-content: space-evenly;
 }
