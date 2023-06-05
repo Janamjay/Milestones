@@ -16,16 +16,11 @@ nav {
   display: flex;
   padding: 2% 6%;
   justify-content: space-between;
-  /*align-items: center;*/
 }
 nav img {
   width: 120px;
   border-radius: 70px;
 }
-/*.nav_links{
-	flex: 1;
-	text-align: right;
-}*/
 
 .nav-mainUL,
 .nav-mainUL ul {
@@ -36,9 +31,7 @@ nav img {
 
 .nav-mainUL li {
   float: left;
-  /*display: inline-block;*/
   padding: 8px 0;
-  /*position: relative;*/
   height: 25px;
   width: 115px;
   text-align: center;
@@ -114,9 +107,6 @@ nav .fa {
 .dr-director {
   width: 80%;
   margin: auto;
-  /*height: 600px;*/
-  /*padding-top: 80px;
-	padding-bottom: 50px;*/
 }
 
 .director-main {
@@ -136,7 +126,6 @@ nav .fa {
 .director-col img {
   width: 100%;
   height: 70%;
-  /*margin-top: 50px;*/
   border-radius: 10px;
 }
 .director-col h2 {
@@ -371,7 +360,6 @@ h3 {
 .about-us {
   width: 80%;
   margin: auto;
-  /*padding-top: 80px;*/
   padding-bottom: 50px;
 }
 .about-col {
@@ -416,7 +404,6 @@ h3 {
 
 .placement-main {
   display: flex;
-  /* width: 90%; */
 
   justify-content: space-evenly;
 }
@@ -428,7 +415,6 @@ h3 {
 
 .placement-col img {
   width: 100%;
-  /*height: 90vh;*/
   border-radius: 23px;
   box-shadow: 0px 5px 10px grey;
 }
@@ -701,14 +687,12 @@ h3 {
   width: 100vw;
   display: flex;
   justify-content: center;
-  /*align-items: center;*/
   flex-wrap: wrap;
 }
 
 .faculties {
   width: 30%;
   margin: 15px;
-  /*border: 1px solid black;*/
   border-radius: 13px;
   box-shadow: 2px 2px 10px #888888;
   display: flex;
